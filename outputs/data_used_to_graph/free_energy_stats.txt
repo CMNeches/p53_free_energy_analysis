@@ -1,0 +1,1 @@
+free energy wt:  338.445 kcal_molmean:  370.4682471383415median:  377.168standard deviation:  43.6498279726916795th confidence interval:  (368.7348743058405, 372.2016199708425)
