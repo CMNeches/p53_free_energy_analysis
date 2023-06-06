@@ -1,0 +1,616 @@
+Codon	Codon Counts	Tissues	Notes
+102	5	ADRENAL GLAND	Passes 90th percentile threshold
+133	2	ADRENAL GLAND	Passes 90th percentile threshold
+144	2	ADRENAL GLAND	Passes 90th percentile threshold
+151	2	ADRENAL GLAND	Passes 90th percentile threshold
+152	2	ADRENAL GLAND	Passes 90th percentile threshold
+172	3	ADRENAL GLAND	Passes 90th percentile threshold
+176	2	ADRENAL GLAND	Passes 90th percentile threshold
+177	2	ADRENAL GLAND	Passes 90th percentile threshold
+248	4	ADRENAL GLAND	Passes 90th percentile threshold
+342	2	ADRENAL GLAND	Passes 90th percentile threshold
+232	1	ANUS	Passes 90th percentile threshold
+238	1	ANUS	Passes 90th percentile threshold
+273	1	ANUS	Passes 90th percentile threshold
+175	8	BILIARY TRACT	Passes 90th percentile threshold
+189	6	BILIARY TRACT	Passes 90th percentile threshold
+248	5	BILIARY TRACT	Passes 90th percentile threshold
+273	8	BILIARY TRACT	Passes 90th percentile threshold
+132	21	BLADDER	Passes 90th percentile threshold
+135	13	BLADDER	Passes 90th percentile threshold
+152	13	BLADDER	Passes 90th percentile threshold
+157	14	BLADDER	Passes 90th percentile threshold
+158	23	BLADDER	Passes 90th percentile threshold
+175	44	BLADDER	Passes 90th percentile threshold
+179	15	BLADDER	Passes 90th percentile threshold
+220	30	BLADDER	Passes 90th percentile threshold
+241	27	BLADDER	Passes 90th percentile threshold
+245	36	BLADDER	Passes 90th percentile threshold
+246	15	BLADDER	Passes 90th percentile threshold
+248	84	BLADDER	Passes 90th percentile threshold
+258	15	BLADDER	Passes 90th percentile threshold
+266	16	BLADDER	Passes 90th percentile threshold
+271	24	BLADDER	Passes 90th percentile threshold
+273	50	BLADDER	Passes 90th percentile threshold
+280	70	BLADDER	Passes 90th percentile threshold
+282	25	BLADDER	Passes 90th percentile threshold
+283	13	BLADDER	Passes 90th percentile threshold
+285	74	BLADDER	Passes 90th percentile threshold
+161	3	BONES (limbs)	Passes 90th percentile threshold
+273	5	BONES (limbs)	Passes 90th percentile threshold
+282	3	BONES (limbs)	Passes 90th percentile threshold
+175	10	BONES (other)	Passes 90th percentile threshold
+176	6	BONES (other)	Passes 90th percentile threshold
+237	6	BONES (other)	Passes 90th percentile threshold
+248	13	BONES (other)	Passes 90th percentile threshold
+273	22	BONES (other)	Passes 90th percentile threshold
+281	8	BONES (other)	Passes 90th percentile threshold
+151	17	BRAIN	Passes 90th percentile threshold
+152	23	BRAIN	Passes 90th percentile threshold
+158	39	BRAIN	Passes 90th percentile threshold
+161	21	BRAIN	Passes 90th percentile threshold
+163	17	BRAIN	Passes 90th percentile threshold
+175	112	BRAIN	Passes 90th percentile threshold
+179	33	BRAIN	Passes 90th percentile threshold
+220	29	BRAIN	Passes 90th percentile threshold
+234	27	BRAIN	Passes 90th percentile threshold
+237	19	BRAIN	Passes 90th percentile threshold
+242	17	BRAIN	Passes 90th percentile threshold
+245	48	BRAIN	Passes 90th percentile threshold
+248	135	BRAIN	Passes 90th percentile threshold
+249	18	BRAIN	Passes 90th percentile threshold
+273	283	BRAIN	Passes 90th percentile threshold
+275	20	BRAIN	Passes 90th percentile threshold
+278	18	BRAIN	Passes 90th percentile threshold
+282	55	BRAIN	Passes 90th percentile threshold
+132	25	BREAST	Passes 90th percentile threshold
+135	29	BREAST	Passes 90th percentile threshold
+151	24	BREAST	Passes 90th percentile threshold
+156	23	BREAST	Passes 90th percentile threshold
+163	42	BREAST	Passes 90th percentile threshold
+173	24	BREAST	Passes 90th percentile threshold
+175	138	BREAST	Passes 90th percentile threshold
+176	31	BREAST	Passes 90th percentile threshold
+179	44	BREAST	Passes 90th percentile threshold
+193	27	BREAST	Passes 90th percentile threshold
+220	71	BREAST	Passes 90th percentile threshold
+234	25	BREAST	Passes 90th percentile threshold
+237	32	BREAST	Passes 90th percentile threshold
+238	29	BREAST	Passes 90th percentile threshold
+242	23	BREAST	Passes 90th percentile threshold
+244	23	BREAST	Passes 90th percentile threshold
+245	71	BREAST	Passes 90th percentile threshold
+248	206	BREAST	Passes 90th percentile threshold
+249	42	BREAST	Passes 90th percentile threshold
+266	23	BREAST	Passes 90th percentile threshold
+273	152	BREAST	Passes 90th percentile threshold
+275	27	BREAST	Passes 90th percentile threshold
+278	31	BREAST	Passes 90th percentile threshold
+280	29	BREAST	Passes 90th percentile threshold
+282	50	BREAST	Passes 90th percentile threshold
+285	23	BREAST	Passes 90th percentile threshold
+175	7	CERVIX UTERI	Passes 90th percentile threshold
+181	4	CERVIX UTERI	Passes 90th percentile threshold
+248	8	CERVIX UTERI	Passes 90th percentile threshold
+249	5	CERVIX UTERI	Passes 90th percentile threshold
+273	10	CERVIX UTERI	Passes 90th percentile threshold
+135	8	COLON	Passes 90th percentile threshold
+141	8	COLON	Passes 90th percentile threshold
+158	13	COLON	Passes 90th percentile threshold
+163	8	COLON	Passes 90th percentile threshold
+175	104	COLON	Passes 90th percentile threshold
+176	14	COLON	Passes 90th percentile threshold
+179	10	COLON	Passes 90th percentile threshold
+237	10	COLON	Passes 90th percentile threshold
+244	9	COLON	Passes 90th percentile threshold
+245	65	COLON	Passes 90th percentile threshold
+248	114	COLON	Passes 90th percentile threshold
+258	8	COLON	Passes 90th percentile threshold
+266	14	COLON	Passes 90th percentile threshold
+272	9	COLON	Passes 90th percentile threshold
+273	122	COLON	Passes 90th percentile threshold
+278	12	COLON	Passes 90th percentile threshold
+282	50	COLON	Passes 90th percentile threshold
+141	17	COLORECTUM, NOS	Passes 90th percentile threshold
+151	15	COLORECTUM, NOS	Passes 90th percentile threshold
+173	17	COLORECTUM, NOS	Passes 90th percentile threshold
+175	202	COLORECTUM, NOS	Passes 90th percentile threshold
+176	27	COLORECTUM, NOS	Passes 90th percentile threshold
+179	17	COLORECTUM, NOS	Passes 90th percentile threshold
+220	20	COLORECTUM, NOS	Passes 90th percentile threshold
+238	16	COLORECTUM, NOS	Passes 90th percentile threshold
+244	35	COLORECTUM, NOS	Passes 90th percentile threshold
+245	96	COLORECTUM, NOS	Passes 90th percentile threshold
+248	199	COLORECTUM, NOS	Passes 90th percentile threshold
+249	18	COLORECTUM, NOS	Passes 90th percentile threshold
+272	17	COLORECTUM, NOS	Passes 90th percentile threshold
+273	143	COLORECTUM, NOS	Passes 90th percentile threshold
+278	22	COLORECTUM, NOS	Passes 90th percentile threshold
+282	90	COLORECTUM, NOS	Passes 90th percentile threshold
+175	7	CORPUS UTERI	Passes 90th percentile threshold
+241	6	CORPUS UTERI	Passes 90th percentile threshold
+245	6	CORPUS UTERI	Passes 90th percentile threshold
+248	22	CORPUS UTERI	Passes 90th percentile threshold
+259	7	CORPUS UTERI	Passes 90th percentile threshold
+273	13	CORPUS UTERI	Passes 90th percentile threshold
+280	5	CORPUS UTERI	Passes 90th percentile threshold
+282	5	CORPUS UTERI	Passes 90th percentile threshold
+273	1	ENDOCRINE GLANDS, NOS	Passes 90th percentile threshold
+135	17	ESOPHAGUS	Passes 90th percentile threshold
+151	21	ESOPHAGUS	Passes 90th percentile threshold
+157	18	ESOPHAGUS	Passes 90th percentile threshold
+158	19	ESOPHAGUS	Passes 90th percentile threshold
+175	103	ESOPHAGUS	Passes 90th percentile threshold
+176	74	ESOPHAGUS	Passes 90th percentile threshold
+179	40	ESOPHAGUS	Passes 90th percentile threshold
+193	30	ESOPHAGUS	Passes 90th percentile threshold
+220	31	ESOPHAGUS	Passes 90th percentile threshold
+242	18	ESOPHAGUS	Passes 90th percentile threshold
+245	62	ESOPHAGUS	Passes 90th percentile threshold
+248	115	ESOPHAGUS	Passes 90th percentile threshold
+249	20	ESOPHAGUS	Passes 90th percentile threshold
+255	17	ESOPHAGUS	Passes 90th percentile threshold
+266	22	ESOPHAGUS	Passes 90th percentile threshold
+273	89	ESOPHAGUS	Passes 90th percentile threshold
+278	31	ESOPHAGUS	Passes 90th percentile threshold
+282	66	ESOPHAGUS	Passes 90th percentile threshold
+286	17	ESOPHAGUS	Passes 90th percentile threshold
+213	3	EYE AND ADNEXA	Passes 90th percentile threshold
+241	2	EYE AND ADNEXA	Passes 90th percentile threshold
+17	1	FEMALE GENITAL ORG., NOS	Passes 90th percentile threshold
+24	1	FEMALE GENITAL ORG., NOS	Passes 90th percentile threshold
+248	1	FEMALE GENITAL ORG., NOS	Passes 90th percentile threshold
+173	4	GALLBLADDER	Passes 90th percentile threshold
+175	5	GALLBLADDER	Passes 90th percentile threshold
+220	3	GALLBLADDER	Passes 90th percentile threshold
+248	9	GALLBLADDER	Passes 90th percentile threshold
+280	5	GALLBLADDER	Passes 90th percentile threshold
+285	3	GALLBLADDER	Passes 90th percentile threshold
+175	4	GUM	Passes 90th percentile threshold
+193	4	GUM	Passes 90th percentile threshold
+273	5	GUM	Passes 90th percentile threshold
+282	5	GUM	Passes 90th percentile threshold
+157	8	HEAD&NECK, NOS	Passes 90th percentile threshold
+175	18	HEAD&NECK, NOS	Passes 90th percentile threshold
+176	8	HEAD&NECK, NOS	Passes 90th percentile threshold
+179	12	HEAD&NECK, NOS	Passes 90th percentile threshold
+193	11	HEAD&NECK, NOS	Passes 90th percentile threshold
+205	10	HEAD&NECK, NOS	Passes 90th percentile threshold
+245	19	HEAD&NECK, NOS	Passes 90th percentile threshold
+248	39	HEAD&NECK, NOS	Passes 90th percentile threshold
+249	10	HEAD&NECK, NOS	Passes 90th percentile threshold
+273	25	HEAD&NECK, NOS	Passes 90th percentile threshold
+280	10	HEAD&NECK, NOS	Passes 90th percentile threshold
+282	14	HEAD&NECK, NOS	Passes 90th percentile threshold
+132	11	HEMATOP. SYSTEM	Passes 90th percentile threshold
+135	15	HEMATOP. SYSTEM	Passes 90th percentile threshold
+175	50	HEMATOP. SYSTEM	Passes 90th percentile threshold
+176	12	HEMATOP. SYSTEM	Passes 90th percentile threshold
+179	12	HEMATOP. SYSTEM	Passes 90th percentile threshold
+220	14	HEMATOP. SYSTEM	Passes 90th percentile threshold
+237	16	HEMATOP. SYSTEM	Passes 90th percentile threshold
+245	22	HEMATOP. SYSTEM	Passes 90th percentile threshold
+248	105	HEMATOP. SYSTEM	Passes 90th percentile threshold
+273	50	HEMATOP. SYSTEM	Passes 90th percentile threshold
+275	11	HEMATOP. SYSTEM	Passes 90th percentile threshold
+281	13	HEMATOP. SYSTEM	Passes 90th percentile threshold
+282	17	HEMATOP. SYSTEM	Passes 90th percentile threshold
+285	11	HEMATOP. SYSTEM	Passes 90th percentile threshold
+175	5	HYPOPHARYNX	Passes 90th percentile threshold
+176	4	HYPOPHARYNX	Passes 90th percentile threshold
+220	8	HYPOPHARYNX	Passes 90th percentile threshold
+242	4	HYPOPHARYNX	Passes 90th percentile threshold
+245	6	HYPOPHARYNX	Passes 90th percentile threshold
+248	8	HYPOPHARYNX	Passes 90th percentile threshold
+273	6	HYPOPHARYNX	Passes 90th percentile threshold
+282	4	HYPOPHARYNX	Passes 90th percentile threshold
+175	5	KIDNEY	Passes 90th percentile threshold
+244	8	KIDNEY	Passes 90th percentile threshold
+245	4	KIDNEY	Passes 90th percentile threshold
+248	10	KIDNEY	Passes 90th percentile threshold
+273	4	KIDNEY	Passes 90th percentile threshold
+278	11	KIDNEY	Passes 90th percentile threshold
+151	7	LARYNX	Passes 90th percentile threshold
+157	15	LARYNX	Passes 90th percentile threshold
+176	8	LARYNX	Passes 90th percentile threshold
+179	11	LARYNX	Passes 90th percentile threshold
+220	10	LARYNX	Passes 90th percentile threshold
+242	10	LARYNX	Passes 90th percentile threshold
+245	13	LARYNX	Passes 90th percentile threshold
+248	24	LARYNX	Passes 90th percentile threshold
+249	9	LARYNX	Passes 90th percentile threshold
+273	23	LARYNX	Passes 90th percentile threshold
+173	2	LIP	Passes 90th percentile threshold
+175	2	LIP	Passes 90th percentile threshold
+193	2	LIP	Passes 90th percentile threshold
+157	29	LIVER	Passes 90th percentile threshold
+159	14	LIVER	Passes 90th percentile threshold
+166	12	LIVER	Passes 90th percentile threshold
+175	18	LIVER	Passes 90th percentile threshold
+176	14	LIVER	Passes 90th percentile threshold
+179	16	LIVER	Passes 90th percentile threshold
+220	17	LIVER	Passes 90th percentile threshold
+242	12	LIVER	Passes 90th percentile threshold
+244	17	LIVER	Passes 90th percentile threshold
+245	19	LIVER	Passes 90th percentile threshold
+246	11	LIVER	Passes 90th percentile threshold
+248	24	LIVER	Passes 90th percentile threshold
+249	308	LIVER	Passes 90th percentile threshold
+251	15	LIVER	Passes 90th percentile threshold
+273	43	LIVER	Passes 90th percentile threshold
+282	12	LIVER	Passes 90th percentile threshold
+132	25	LUNG	Passes 90th percentile threshold
+154	30	LUNG	Passes 90th percentile threshold
+157	76	LUNG	Passes 90th percentile threshold
+158	84	LUNG	Passes 90th percentile threshold
+159	26	LUNG	Passes 90th percentile threshold
+163	31	LUNG	Passes 90th percentile threshold
+175	66	LUNG	Passes 90th percentile threshold
+176	33	LUNG	Passes 90th percentile threshold
+179	58	LUNG	Passes 90th percentile threshold
+193	25	LUNG	Passes 90th percentile threshold
+220	53	LUNG	Passes 90th percentile threshold
+234	27	LUNG	Passes 90th percentile threshold
+237	33	LUNG	Passes 90th percentile threshold
+242	34	LUNG	Passes 90th percentile threshold
+245	92	LUNG	Passes 90th percentile threshold
+248	152	LUNG	Passes 90th percentile threshold
+249	124	LUNG	Passes 90th percentile threshold
+266	25	LUNG	Passes 90th percentile threshold
+273	156	LUNG	Passes 90th percentile threshold
+278	25	LUNG	Passes 90th percentile threshold
+280	32	LUNG	Passes 90th percentile threshold
+281	27	LUNG	Passes 90th percentile threshold
+282	47	LUNG	Passes 90th percentile threshold
+132	11	LYMPH NODES	Passes 90th percentile threshold
+138	10	LYMPH NODES	Passes 90th percentile threshold
+158	14	LYMPH NODES	Passes 90th percentile threshold
+175	26	LYMPH NODES	Passes 90th percentile threshold
+176	16	LYMPH NODES	Passes 90th percentile threshold
+234	14	LYMPH NODES	Passes 90th percentile threshold
+236	10	LYMPH NODES	Passes 90th percentile threshold
+244	13	LYMPH NODES	Passes 90th percentile threshold
+245	17	LYMPH NODES	Passes 90th percentile threshold
+248	71	LYMPH NODES	Passes 90th percentile threshold
+254	11	LYMPH NODES	Passes 90th percentile threshold
+273	49	LYMPH NODES	Passes 90th percentile threshold
+282	12	LYMPH NODES	Passes 90th percentile threshold
+161	1	MENINGES	Passes 90th percentile threshold
+223	1	MENINGES	Passes 90th percentile threshold
+175	5	MOUTH (floor)	Passes 90th percentile threshold
+245	6	MOUTH (floor)	Passes 90th percentile threshold
+248	6	MOUTH (floor)	Passes 90th percentile threshold
+273	4	MOUTH (floor)	Passes 90th percentile threshold
+282	4	MOUTH (floor)	Passes 90th percentile threshold
+175	29	MOUTH (other)	Passes 90th percentile threshold
+176	15	MOUTH (other)	Passes 90th percentile threshold
+179	15	MOUTH (other)	Passes 90th percentile threshold
+193	12	MOUTH (other)	Passes 90th percentile threshold
+220	16	MOUTH (other)	Passes 90th percentile threshold
+237	13	MOUTH (other)	Passes 90th percentile threshold
+245	15	MOUTH (other)	Passes 90th percentile threshold
+248	30	MOUTH (other)	Passes 90th percentile threshold
+249	12	MOUTH (other)	Passes 90th percentile threshold
+273	23	MOUTH (other)	Passes 90th percentile threshold
+278	16	MOUTH (other)	Passes 90th percentile threshold
+280	11	MOUTH (other)	Passes 90th percentile threshold
+282	19	MOUTH (other)	Passes 90th percentile threshold
+118	4	NASAL CAVITY	Passes 90th percentile threshold
+125	5	NASAL CAVITY	Passes 90th percentile threshold
+151	4	NASAL CAVITY	Passes 90th percentile threshold
+172	4	NASAL CAVITY	Passes 90th percentile threshold
+187	4	NASAL CAVITY	Passes 90th percentile threshold
+193	5	NASAL CAVITY	Passes 90th percentile threshold
+245	4	NASAL CAVITY	Passes 90th percentile threshold
+248	5	NASAL CAVITY	Passes 90th percentile threshold
+273	5	NASAL CAVITY	Passes 90th percentile threshold
+175	4	NASOPHARYNX	Passes 90th percentile threshold
+273	15	NASOPHARYNX	Passes 90th percentile threshold
+280	5	NASOPHARYNX	Passes 90th percentile threshold
+135	7	NERVES	Passes 90th percentile threshold
+176	3	NERVES	Passes 90th percentile threshold
+277	3	NERVES	Passes 90th percentile threshold
+278	3	NERVES	Passes 90th percentile threshold
+179	6	OROPHARYNX	Passes 90th percentile threshold
+193	5	OROPHARYNX	Passes 90th percentile threshold
+205	6	OROPHARYNX	Passes 90th percentile threshold
+220	8	OROPHARYNX	Passes 90th percentile threshold
+236	5	OROPHARYNX	Passes 90th percentile threshold
+245	5	OROPHARYNX	Passes 90th percentile threshold
+248	15	OROPHARYNX	Passes 90th percentile threshold
+273	6	OROPHARYNX	Passes 90th percentile threshold
+278	5	OROPHARYNX	Passes 90th percentile threshold
+282	10	OROPHARYNX	Passes 90th percentile threshold
+242	1	OTHER DIGESTIVE ORG.	Passes 90th percentile threshold
+248	2	OTHER ENDOCRINE Gl.	Passes 90th percentile threshold
+175	4	OTHER FEMALE GEN. ORG.	Passes 90th percentile threshold
+241	2	OTHER FEMALE GEN. ORG.	Passes 90th percentile threshold
+248	2	OTHER FEMALE GEN. ORG.	Passes 90th percentile threshold
+273	2	OTHER FEMALE GEN. ORG.	Passes 90th percentile threshold
+158	1	OTHER HEAD&NECK	Passes 90th percentile threshold
+175	1	OTHER HEAD&NECK	Passes 90th percentile threshold
+179	1	OTHER HEAD&NECK	Passes 90th percentile threshold
+220	1	OTHER HEAD&NECK	Passes 90th percentile threshold
+238	1	OTHER HEAD&NECK	Passes 90th percentile threshold
+282	1	OTHER HEAD&NECK	Passes 90th percentile threshold
+259	1	OTHER MALE GEN. ORG.	Passes 90th percentile threshold
+273	3	OTHER RESPIR. SYST.	Passes 90th percentile threshold
+128	1	OTHER SITES	Passes 90th percentile threshold
+138	1	OTHER SITES	Passes 90th percentile threshold
+248	1	OTHER SITES	Passes 90th percentile threshold
+273	1	OTHER SITES	Passes 90th percentile threshold
+49	2	OTHER URINARY ORG.	Passes 90th percentile threshold
+175	2	OTHER URINARY ORG.	Passes 90th percentile threshold
+205	2	OTHER URINARY ORG.	Passes 90th percentile threshold
+248	5	OTHER URINARY ORG.	Passes 90th percentile threshold
+258	2	OTHER URINARY ORG.	Passes 90th percentile threshold
+285	2	OTHER URINARY ORG.	Passes 90th percentile threshold
+286	2	OTHER URINARY ORG.	Passes 90th percentile threshold
+132	27	OVARY	Passes 90th percentile threshold
+151	25	OVARY	Passes 90th percentile threshold
+163	28	OVARY	Passes 90th percentile threshold
+175	109	OVARY	Passes 90th percentile threshold
+176	27	OVARY	Passes 90th percentile threshold
+179	40	OVARY	Passes 90th percentile threshold
+193	28	OVARY	Passes 90th percentile threshold
+195	45	OVARY	Passes 90th percentile threshold
+220	64	OVARY	Passes 90th percentile threshold
+234	26	OVARY	Passes 90th percentile threshold
+237	30	OVARY	Passes 90th percentile threshold
+241	25	OVARY	Passes 90th percentile threshold
+245	65	OVARY	Passes 90th percentile threshold
+248	124	OVARY	Passes 90th percentile threshold
+266	24	OVARY	Passes 90th percentile threshold
+272	27	OVARY	Passes 90th percentile threshold
+273	172	OVARY	Passes 90th percentile threshold
+282	38	OVARY	Passes 90th percentile threshold
+125	1	PALATE	Passes 90th percentile threshold
+132	1	PALATE	Passes 90th percentile threshold
+151	1	PALATE	Passes 90th percentile threshold
+155	1	PALATE	Passes 90th percentile threshold
+160	1	PALATE	Passes 90th percentile threshold
+164	1	PALATE	Passes 90th percentile threshold
+176	1	PALATE	Passes 90th percentile threshold
+181	1	PALATE	Passes 90th percentile threshold
+195	1	PALATE	Passes 90th percentile threshold
+237	1	PALATE	Passes 90th percentile threshold
+239	1	PALATE	Passes 90th percentile threshold
+249	1	PALATE	Passes 90th percentile threshold
+255	1	PALATE	Passes 90th percentile threshold
+270	1	PALATE	Passes 90th percentile threshold
+273	4	PALATE	Passes 90th percentile threshold
+274	1	PALATE	Passes 90th percentile threshold
+278	1	PALATE	Passes 90th percentile threshold
+132	5	PANCREAS	Passes 90th percentile threshold
+151	5	PANCREAS	Passes 90th percentile threshold
+175	18	PANCREAS	Passes 90th percentile threshold
+176	7	PANCREAS	Passes 90th percentile threshold
+179	5	PANCREAS	Passes 90th percentile threshold
+213	5	PANCREAS	Passes 90th percentile threshold
+220	8	PANCREAS	Passes 90th percentile threshold
+237	5	PANCREAS	Passes 90th percentile threshold
+238	6	PANCREAS	Passes 90th percentile threshold
+242	5	PANCREAS	Passes 90th percentile threshold
+245	12	PANCREAS	Passes 90th percentile threshold
+248	27	PANCREAS	Passes 90th percentile threshold
+249	7	PANCREAS	Passes 90th percentile threshold
+255	7	PANCREAS	Passes 90th percentile threshold
+266	5	PANCREAS	Passes 90th percentile threshold
+272	5	PANCREAS	Passes 90th percentile threshold
+273	56	PANCREAS	Passes 90th percentile threshold
+275	5	PANCREAS	Passes 90th percentile threshold
+282	19	PANCREAS	Passes 90th percentile threshold
+82	2	PAROTID GLAND	Passes 90th percentile threshold
+248	3	PAROTID GLAND	Passes 90th percentile threshold
+273	5	PENIS	Passes 90th percentile threshold
+199	4	PERITONEUM	Passes 90th percentile threshold
+218	4	PERITONEUM	Passes 90th percentile threshold
+282	4	PERITONEUM	Passes 90th percentile threshold
+167	1	PLACENTA	Passes 90th percentile threshold
+295	1	PLACENTA	Passes 90th percentile threshold
+151	6	PROSTATE	Passes 90th percentile threshold
+158	5	PROSTATE	Passes 90th percentile threshold
+172	5	PROSTATE	Passes 90th percentile threshold
+175	9	PROSTATE	Passes 90th percentile threshold
+177	5	PROSTATE	Passes 90th percentile threshold
+214	7	PROSTATE	Passes 90th percentile threshold
+237	5	PROSTATE	Passes 90th percentile threshold
+245	11	PROSTATE	Passes 90th percentile threshold
+248	15	PROSTATE	Passes 90th percentile threshold
+251	6	PROSTATE	Passes 90th percentile threshold
+273	26	PROSTATE	Passes 90th percentile threshold
+280	6	PROSTATE	Passes 90th percentile threshold
+282	7	PROSTATE	Passes 90th percentile threshold
+160	1	PYRIFORM SINUS	Passes 90th percentile threshold
+164	1	PYRIFORM SINUS	Passes 90th percentile threshold
+193	1	PYRIFORM SINUS	Passes 90th percentile threshold
+277	1	PYRIFORM SINUS	Passes 90th percentile threshold
+175	5	RECTOSIGM. JUNCT.	Passes 90th percentile threshold
+248	4	RECTOSIGM. JUNCT.	Passes 90th percentile threshold
+273	5	RECTOSIGM. JUNCT.	Passes 90th percentile threshold
+135	10	RECTUM	Passes 90th percentile threshold
+151	6	RECTUM	Passes 90th percentile threshold
+158	7	RECTUM	Passes 90th percentile threshold
+163	8	RECTUM	Passes 90th percentile threshold
+175	73	RECTUM	Passes 90th percentile threshold
+176	6	RECTUM	Passes 90th percentile threshold
+179	9	RECTUM	Passes 90th percentile threshold
+220	8	RECTUM	Passes 90th percentile threshold
+239	6	RECTUM	Passes 90th percentile threshold
+245	43	RECTUM	Passes 90th percentile threshold
+248	73	RECTUM	Passes 90th percentile threshold
+249	6	RECTUM	Passes 90th percentile threshold
+272	6	RECTUM	Passes 90th percentile threshold
+273	67	RECTUM	Passes 90th percentile threshold
+282	41	RECTUM	Passes 90th percentile threshold
+248	4	RENAL PELVIS	Passes 90th percentile threshold
+249	3	RENAL PELVIS	Passes 90th percentile threshold
+282	3	RENAL PELVIS	Passes 90th percentile threshold
+143	2	SALIVARY GLAND	Passes 90th percentile threshold
+166	2	SALIVARY GLAND	Passes 90th percentile threshold
+175	2	SALIVARY GLAND	Passes 90th percentile threshold
+135	8	SINUSES	Passes 90th percentile threshold
+175	10	SINUSES	Passes 90th percentile threshold
+176	6	SINUSES	Passes 90th percentile threshold
+179	6	SINUSES	Passes 90th percentile threshold
+245	5	SINUSES	Passes 90th percentile threshold
+248	11	SINUSES	Passes 90th percentile threshold
+273	6	SINUSES	Passes 90th percentile threshold
+127	12	SKIN	Passes 90th percentile threshold
+152	14	SKIN	Passes 90th percentile threshold
+157	13	SKIN	Passes 90th percentile threshold
+177	20	SKIN	Passes 90th percentile threshold
+178	26	SKIN	Passes 90th percentile threshold
+179	16	SKIN	Passes 90th percentile threshold
+241	18	SKIN	Passes 90th percentile threshold
+245	21	SKIN	Passes 90th percentile threshold
+247	26	SKIN	Passes 90th percentile threshold
+248	49	SKIN	Passes 90th percentile threshold
+249	13	SKIN	Passes 90th percentile threshold
+250	16	SKIN	Passes 90th percentile threshold
+258	17	SKIN	Passes 90th percentile threshold
+266	11	SKIN	Passes 90th percentile threshold
+273	17	SKIN	Passes 90th percentile threshold
+278	45	SKIN	Passes 90th percentile threshold
+281	27	SKIN	Passes 90th percentile threshold
+282	16	SKIN	Passes 90th percentile threshold
+286	17	SKIN	Passes 90th percentile threshold
+129	1	SMALL INTESTINE	Passes 90th percentile threshold
+153	1	SMALL INTESTINE	Passes 90th percentile threshold
+217	1	SMALL INTESTINE	Passes 90th percentile threshold
+220	1	SMALL INTESTINE	Passes 90th percentile threshold
+245	1	SMALL INTESTINE	Passes 90th percentile threshold
+248	2	SMALL INTESTINE	Passes 90th percentile threshold
+249	1	SMALL INTESTINE	Passes 90th percentile threshold
+253	1	SMALL INTESTINE	Passes 90th percentile threshold
+265	1	SMALL INTESTINE	Passes 90th percentile threshold
+272	1	SMALL INTESTINE	Passes 90th percentile threshold
+273	1	SMALL INTESTINE	Passes 90th percentile threshold
+280	1	SMALL INTESTINE	Passes 90th percentile threshold
+151	5	SOFT TISSUES	Passes 90th percentile threshold
+158	5	SOFT TISSUES	Passes 90th percentile threshold
+163	5	SOFT TISSUES	Passes 90th percentile threshold
+175	7	SOFT TISSUES	Passes 90th percentile threshold
+179	5	SOFT TISSUES	Passes 90th percentile threshold
+214	5	SOFT TISSUES	Passes 90th percentile threshold
+220	8	SOFT TISSUES	Passes 90th percentile threshold
+237	7	SOFT TISSUES	Passes 90th percentile threshold
+238	9	SOFT TISSUES	Passes 90th percentile threshold
+240	7	SOFT TISSUES	Passes 90th percentile threshold
+244	6	SOFT TISSUES	Passes 90th percentile threshold
+245	12	SOFT TISSUES	Passes 90th percentile threshold
+248	16	SOFT TISSUES	Passes 90th percentile threshold
+273	17	SOFT TISSUES	Passes 90th percentile threshold
+280	5	SOFT TISSUES	Passes 90th percentile threshold
+161	1	SPINAL CORD	Passes 90th percentile threshold
+238	1	SPINAL CORD	Passes 90th percentile threshold
+281	1	SPINAL CORD	Passes 90th percentile threshold
+151	9	STOMACH	Passes 90th percentile threshold
+173	16	STOMACH	Passes 90th percentile threshold
+175	72	STOMACH	Passes 90th percentile threshold
+176	14	STOMACH	Passes 90th percentile threshold
+179	12	STOMACH	Passes 90th percentile threshold
+193	9	STOMACH	Passes 90th percentile threshold
+205	10	STOMACH	Passes 90th percentile threshold
+220	17	STOMACH	Passes 90th percentile threshold
+236	9	STOMACH	Passes 90th percentile threshold
+244	9	STOMACH	Passes 90th percentile threshold
+245	40	STOMACH	Passes 90th percentile threshold
+248	67	STOMACH	Passes 90th percentile threshold
+249	10	STOMACH	Passes 90th percentile threshold
+251	10	STOMACH	Passes 90th percentile threshold
+272	9	STOMACH	Passes 90th percentile threshold
+273	62	STOMACH	Passes 90th percentile threshold
+275	9	STOMACH	Passes 90th percentile threshold
+282	46	STOMACH	Passes 90th percentile threshold
+285	11	STOMACH	Passes 90th percentile threshold
+296	10	STOMACH	Passes 90th percentile threshold
+176	2	TESTIS	Passes 90th percentile threshold
+179	2	TESTIS	Passes 90th percentile threshold
+201	2	THYMUS	Passes 90th percentile threshold
+276	3	THYMUS	Passes 90th percentile threshold
+167	5	THYROID	Passes 90th percentile threshold
+237	3	THYROID	Passes 90th percentile threshold
+248	8	THYROID	Passes 90th percentile threshold
+266	3	THYROID	Passes 90th percentile threshold
+273	20	THYROID	Passes 90th percentile threshold
+248	2	TONGUE (base)	Passes 90th percentile threshold
+273	2	TONGUE (base)	Passes 90th percentile threshold
+151	4	TONGUE (other)	Passes 90th percentile threshold
+152	4	TONGUE (other)	Passes 90th percentile threshold
+176	7	TONGUE (other)	Passes 90th percentile threshold
+193	4	TONGUE (other)	Passes 90th percentile threshold
+205	7	TONGUE (other)	Passes 90th percentile threshold
+245	5	TONGUE (other)	Passes 90th percentile threshold
+248	9	TONGUE (other)	Passes 90th percentile threshold
+272	4	TONGUE (other)	Passes 90th percentile threshold
+273	10	TONGUE (other)	Passes 90th percentile threshold
+282	4	TONGUE (other)	Passes 90th percentile threshold
+248	2	TONSIL	Passes 90th percentile threshold
+135	2	UNKNOWN SITE	Passes 90th percentile threshold
+162	2	UNKNOWN SITE	Passes 90th percentile threshold
+205	2	UNKNOWN SITE	Passes 90th percentile threshold
+245	2	UNKNOWN SITE	Passes 90th percentile threshold
+120	4	UP. URINARY TARCT, NOS	Passes 90th percentile threshold
+131	8	UP. URINARY TARCT, NOS	Passes 90th percentile threshold
+248	4	UP. URINARY TARCT, NOS	Passes 90th percentile threshold
+249	4	UP. URINARY TARCT, NOS	Passes 90th percentile threshold
+280	5	UP. URINARY TARCT, NOS	Passes 90th percentile threshold
+286	4	UP. URINARY TARCT, NOS	Passes 90th percentile threshold
+175	2	URETER	Passes 90th percentile threshold
+179	2	URETER	Passes 90th percentile threshold
+248	4	URETER	Passes 90th percentile threshold
+280	2	URETER	Passes 90th percentile threshold
+285	2	URETER	Passes 90th percentile threshold
+175	1	URINARY TRACT, NOS	Passes 90th percentile threshold
+280	1	URINARY TRACT, NOS	Passes 90th percentile threshold
+296	1	URINARY TRACT, NOS	Passes 90th percentile threshold
+175	4	UTERUS	Passes 90th percentile threshold
+195	4	UTERUS	Passes 90th percentile threshold
+248	11	UTERUS	Passes 90th percentile threshold
+273	7	UTERUS	Passes 90th percentile threshold
+214	1	VAGINA	Passes 90th percentile threshold
+248	1	VAGINA	Passes 90th percentile threshold
+280	1	VAGINA	Passes 90th percentile threshold
+197	6	VULVA	Passes 90th percentile threshold
+245	7	VULVA	Passes 90th percentile threshold
+248	9	VULVA	Passes 90th percentile threshold
+273	10	VULVA	Passes 90th percentile threshold
+282	6	VULVA	Passes 90th percentile threshold
+132	208	all	Passes 90th percentile threshold
+135	231	all	Passes 90th percentile threshold
+141	149	all	Passes 90th percentile threshold
+151	225	all	Passes 90th percentile threshold
+157	281	all	Passes 90th percentile threshold
+158	293	all	Passes 90th percentile threshold
+163	233	all	Passes 90th percentile threshold
+173	211	all	Passes 90th percentile threshold
+175	1324	all	Passes 90th percentile threshold
+176	388	all	Passes 90th percentile threshold
+179	422	all	Passes 90th percentile threshold
+193	252	all	Passes 90th percentile threshold
+195	174	all	Passes 90th percentile threshold
+205	189	all	Passes 90th percentile threshold
+220	463	all	Passes 90th percentile threshold
+234	213	all	Passes 90th percentile threshold
+237	240	all	Passes 90th percentile threshold
+238	215	all	Passes 90th percentile threshold
+241	213	all	Passes 90th percentile threshold
+242	225	all	Passes 90th percentile threshold
+244	243	all	Passes 90th percentile threshold
+245	852	all	Passes 90th percentile threshold
+246	158	all	Passes 90th percentile threshold
+248	1877	all	Passes 90th percentile threshold
+249	693	all	Passes 90th percentile threshold
+266	232	all	Passes 90th percentile threshold
+272	196	all	Passes 90th percentile threshold
+273	1818	all	Passes 90th percentile threshold
+275	178	all	Passes 90th percentile threshold
+278	317	all	Passes 90th percentile threshold
+280	288	all	Passes 90th percentile threshold
+281	204	all	Passes 90th percentile threshold
+282	706	all	Passes 90th percentile threshold
+285	224	all	Passes 90th percentile threshold
+286	150	all	Passes 90th percentile threshold
+175	2	HEART MED PLEURA	Passes 90th percentile threshold
+245	2	HEART MED PLEURA	Passes 90th percentile threshold
